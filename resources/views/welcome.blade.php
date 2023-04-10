@@ -75,7 +75,7 @@
                         </div>
 
                         <div class="menu-number">
-                            <i class="flaticon-headphone"></i> <a href="callto:+66888666">+243 XXX XXX XXX</a>
+                            <i class="flaticon-headphone"></i> <a href="callto:+234833063075">+234 833 063 075</a>
                         </div>
                     </div>
 
@@ -376,7 +376,7 @@
                         </div>
                     </div>
                     <div class="team-desc">
-                        <h3>Muyembi Muamba Cendrick</h3>
+                        <h3>Muyembi Muamba Cedrick</h3>
                         <p>Partner and Co-CEO</p>
                     </div>
                 </div>
