@@ -187,7 +187,7 @@
                         <div class="service-item wow fadeInUp" data-wow-duration="2s">
                             <div class="service-icon d-flex">
                                 <img src="{{ asset('assets/images/services/icon1.png') }}" alt="Services">
-                                <a href="service-details.html" class="ml-auto"><i class="fas fa-angle-double-right"></i></a>
+                                <a href="#" class="ml-auto"><i class="fas fa-angle-double-right"></i></a>
                             </div>
                             <div class="service-content">
                                 <h4><a href="#">Professional employment<br> services</a></h4>
@@ -198,7 +198,7 @@
                         <div class="service-item wow fadeInUp" data-wow-duration="2s">
                             <div class="service-icon d-flex">
                                 <img src="{{ asset('assets/images/services/icon2.png') }}" alt="Services">
-                                <a href="service-details.html" class="ml-auto"><i class="fas fa-angle-double-right"></i></a>
+                                <a href="#" class="ml-auto"><i class="fas fa-angle-double-right"></i></a>
                             </div>
                             <div class="service-content">
                                 <h4><a href="#">Umbrella Solutions <br> in DRC</a></h4>
@@ -209,7 +209,7 @@
                         <div class="service-item wow fadeInUp" data-wow-duration="2s">
                             <div class="service-icon d-flex">
                                 <img src="{{ asset('assets/images/services/icon3.png') }}" alt="Services">
-                                <a href="service-details.html" class="ml-auto"><i class="fas fa-angle-double-right"></i></a>
+                                <a href="#" class="ml-auto"><i class="fas fa-angle-double-right"></i></a>
                             </div>
                             <div class="service-content">
                                 <h4><a href="#">Payroll & Tax <br> outsourcing in DRC</a></h4>
@@ -220,7 +220,7 @@
                         <div class="service-item wow fadeInUp" data-wow-duration="2s">
                             <div class="service-icon d-flex">
                                 <img src="{{ asset('assets/images/services/icon4.png') }}" alt="Services">
-                                <a href="service-details.html" class="ml-auto"><i class="fas fa-angle-double-right"></i></a>
+                                <a href="#" class="ml-auto"><i class="fas fa-angle-double-right"></i></a>
                             </div>
                             <div class="service-content">
                                 <h4><a href="#">Company Management &  <br> Administrative Services</a></h4>
@@ -231,7 +231,7 @@
                         <div class="service-item wow fadeInUp" data-wow-duration="2s">
                             <div class="service-icon d-flex">
                                 <img src="{{ asset('assets/images/services/icon5.png') }}" alt="Services">
-                                <a href="service-details.html" class="ml-auto"><i class="fas fa-angle-double-right"></i></a>
+                                <a href="#" class="ml-auto"><i class="fas fa-angle-double-right"></i></a>
                             </div>
                             <div class="service-content">
                                 <h4><a href="#">HR Consulting  <br> support services</a></h4>
@@ -242,7 +242,7 @@
                         <div class="service-item wow fadeInUp" data-wow-duration="2s">
                             <div class="service-icon d-flex">
                                 <img src="{{ asset('assets/images/services/icon6.png') }}" alt="Services">
-                                <a href="service-details.html" class="ml-auto"><i class="fas fa-angle-double-right"></i></a>
+                                <a href="#" class="ml-auto"><i class="fas fa-angle-double-right"></i></a>
                             </div>
                             <div class="service-content">
                                 <h4><a href="#">Fiduciary<br> services</a></h4>
@@ -253,7 +253,7 @@
                         <div class="service-item wow fadeInUp" data-wow-duration="2s">
                             <div class="service-icon d-flex">
                                 <img src="{{ asset('assets/images/services/icon1.png') }}" alt="Services">
-                                <a href="service-details.html" class="ml-auto"><i class="fas fa-angle-double-right"></i></a>
+                                <a href="#" class="ml-auto"><i class="fas fa-angle-double-right"></i></a>
                             </div>
                             <div class="service-content">
                                 <h4><a href="#">Audit and Accounting <br> service</a></h4>
@@ -264,7 +264,7 @@
                         <div class="service-item wow fadeInUp" data-wow-duration="2s">
                             <div class="service-icon d-flex">
                                 <img src="{{ asset('assets/images/services/icon4.png') }}" alt="Services">
-                                <a href="service-details.html" class="ml-auto"><i class="fas fa-angle-double-right"></i></a>
+                                <a href="#" class="ml-auto"><i class="fas fa-angle-double-right"></i></a>
                             </div>
                             <div class="service-content">
                                 <h4><a href="#">Financial support<br> services</a></h4>
@@ -275,7 +275,7 @@
                         <div class="service-item wow fadeInUp" data-wow-duration="2s">
                             <div class="service-icon d-flex">
                                 <img src="{{ asset('assets/images/services/icon5.png') }}" alt="Services">
-                                <a href="service-details.html" class="ml-auto"><i class="fas fa-angle-double-right"></i></a>
+                                <a href="#" class="ml-auto"><i class="fas fa-angle-double-right"></i></a>
                             </div>
                             <div class="service-content">
                                 <h4><a href="#">Training<br> services</a></h4>
@@ -286,7 +286,7 @@
                         <div class="service-item wow fadeInUp" data-wow-duration="2s">
                             <div class="service-icon d-flex">
                                 <img src="{{ asset('assets/images/services/icon1.png') }}" alt="Services">
-                                <a href="service-details.html" class="ml-auto"><i class="fas fa-angle-double-right"></i></a>
+                                <a href="#" class="ml-auto"><i class="fas fa-angle-double-right"></i></a>
                             </div>
                             <div class="service-content">
                                 <h4><a href="#">Consulting<br> services</a></h4>
@@ -297,7 +297,7 @@
                         <div class="service-item wow fadeInUp" data-wow-duration="2s">
                             <div class="service-icon d-flex">
                                 <img src="{{ asset('assets/images/services/icon5.png') }}" alt="Services">
-                                <a href="service-details.html" class="ml-auto"><i class="fas fa-angle-double-right"></i></a>
+                                <a href="#" class="ml-auto"><i class="fas fa-angle-double-right"></i></a>
                             </div>
                             <div class="service-content">
                                 <h4><a href="#">Tax assistance,<br> support and advise</a></h4>
@@ -308,7 +308,7 @@
                         <div class="service-item wow fadeInUp" data-wow-duration="2s">
                             <div class="service-icon d-flex">
                                 <img src="{{ asset('assets/images/services/icon1.png') }}" alt="Services">
-                                <a href="service-details.html" class="ml-auto"><i class="fas fa-angle-double-right"></i></a>
+                                <a href="#" class="ml-auto"><i class="fas fa-angle-double-right"></i></a>
                             </div>
                             <div class="service-content">
                                 <h4><a href="#">Other<br> services</a></h4>
@@ -319,7 +319,7 @@
                         <div class="service-item wow fadeInUp" data-wow-duration="2s">
                             <div class="service-icon d-flex">
                                 <img src="{{ asset('assets/images/services/icon1.png') }}" alt="Services">
-                                <a href="service-details.html" class="ml-auto"><i class="fas fa-angle-double-right"></i></a>
+                                <a href="#" class="ml-auto"><i class="fas fa-angle-double-right"></i></a>
                             </div>
                             <div class="service-content">
                                 <h4><a href="#">General<br> business</a></h4>
@@ -392,6 +392,57 @@
                                 Start Footer Section
         =====================================================================-->
         <footer class="footer-section bg-black pt-150 rpt-100">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-3 col-6">
+                        <div class="widget contact-info-widget">
+                            <h3 class="widget-title">Get In Touch</h3>
+                            <ul>
+                                <li>
+                                    <h5>Call Now:</h5>
+                                    <p><a href="callto:+234833063075">+234 833 063 075</a></p>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-6">
+                        <div class="widget menu-widget">
+                            <h3 class="widget-title">Our Services</h3>
+                            <ul>
+                                <li><a href="#">Professional employment services</a></li>
+                                <li><a href="#">Umbrella Solutions in DRC</a></li>
+                                <li><a href="#">Payroll & Tax outsourcing in DRC</a></li>
+                                <li><a href="#">Company Management & Administrative Services</a></li>
+                                <li><a href="#">HR Consulting support services</a></li>
+                                <li><a href="#">Fiduciary services</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-6">
+                        <div class="widget menu-widget">
+                            <h3 class="widget-title">Our Services</h3>
+                            <ul>
+                                <li><a href="#">Audit and Accounting services</a></li>
+                                <li><a href="#">Financial support services</a></li>
+                                <li><a href="#">Training services</a></li>
+                                <li><a href="#">Consulting services</a></li>
+                                <li><a href="#">Tax assistance, support and advise</a></li>
+                                <li><a href="#">Other services</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-6">
+                        <div class="widget subscribe-widget">
+                            <h3 class="widget-title">Company Informations</h3>
+                            <ul>
+                                <li><strong>ID.NAT : </strong>05-M6901-N21952X</li>
+                                <li><strong>RCCM : </strong>LSH/RCCM/23-B-01010</li>
+                                <li><strong>NIF : </strong>A2307898L</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
             <!-- Copyright Area-->
             <div class="copyright-area mt-95 rmt-45">
@@ -403,6 +454,9 @@
                             <button class="scroll-top scroll-to-target wow fadeInUp" data-wow-duration="2s" data-target="html"><i class="fas fa-angle-double-up"></i></button>
                             <!-- footer menu -->
                         </div>
+                        <ul class="footer-menu order-1 order-md-2">
+                           
+                        </ul>
                     </div>
                 </div>
             </div>
