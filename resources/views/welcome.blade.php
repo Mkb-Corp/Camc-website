@@ -365,7 +365,7 @@
                         <p>Partner & Co-CEO</p>
                     </div>
                 </div>
-                <div class="team-item wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.3s">
+                {{-- <div class="team-item wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.3s">
                     <div class="item-image">
                         <img src="{{ asset('assets/images/team/team2.jpg') }}" alt="Team Image">
                         <div class="social-style-two">
@@ -379,7 +379,7 @@
                         <h3>Muyembi Muamba Cedrick</h3>
                         <p>Partner and Co-CEO</p>
                     </div>
-                </div>
+                </div> --}}
             </div>
         </section>
         <!--====================================================================
@@ -455,7 +455,7 @@
                             <!-- footer menu -->
                         </div>
                         <ul class="footer-menu order-1 order-md-2">
-                           
+
                         </ul>
                     </div>
                 </div>
