@@ -362,7 +362,7 @@
                     </div>
                     <div class="team-desc">
                         <h3>Chulu Amina Axel</h3>
-                        <p>Partner & Co-CEO</p>
+                        <p>CEO</p>
                     </div>
                 </div>
                 {{-- <div class="team-item wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.3s">
@@ -401,6 +401,10 @@
                                 <li>
                                     <h5>Call Now:</h5>
                                     <p><a href="callto:+234833063075">+234 833 063 075</a></p>
+                                </li>
+                                <li>
+                                    <h5>Email Us:</h5>
+                                    <p><a href="mailto:info@camc-consulting.com">info@camc-consulting.com</a></p>
                                 </li>
                             </ul>
                         </div>
